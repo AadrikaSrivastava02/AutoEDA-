@@ -8,6 +8,8 @@ AutoEDA is an open-source Python application designed to streamline the process 
 
 ## Preview
 ![Alt text](images/image.png)
+![Alt text](images/image1.png)
+![Alt text](images/image2.png)
 
 This is the home screen of the web application. From here, you can upload any dataset you want and perform Exploratory Data Analysis right through the web.
 
@@ -37,14 +39,8 @@ This is the home screen of the web application. From here, you can upload any da
 **Data Exploration and Visualization:** Users can explore numerical and categorical features, create histograms, scatter plots, and other visualizations.
 
 **Data Preprocessing**: Users can now perform data preprocessing tasks, including handling missing data, encoding categorical variables,feature scaling, identifying and handling outliers and more, directly from the web interface. This streamlines the data preparation process and saves time.
-## Roadmap
 
-I am actively working on enhancing and expanding the data preprocessing feature, as well as adding more features to the application. My goal is to continually improve the user experience and provide a comprehensive set of tools for data analysis and preprocessing. I'm dedicated to making the project even more powerful and user-friendly, so stay tuned for exciting updates and improvements! Your feedback and suggestions are highly appreciated as they help shape the future of this project.
-
-
-## Try AutoEDA
-
-I invite you to try AutoEDA for yourself. Upload your dataset, explore its features, and visualize the data. I appreciate your feedback and suggestions to make AutoEDA even better.
+**Steps you can follow:**
 
 - Make sure you have Python 3 installed.
 
@@ -66,10 +62,8 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-This will run the web application on your default web browser
 
-## Contibutions
-AutoEDA is an open-source project, and I welcome contributions from the community. You can help by reporting issues, contributing code, or suggesting new features.
+
 
 
 
